@@ -32,9 +32,7 @@ Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content da
 Pertanyaan dan Tugas!!!
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll.
-![about me](https://user-images.githubusercontent.com/82009410/115813836-244e0880-a41e-11eb-8606-f13c9e06b425.PNG)
-![about me2](https://user-images.githubusercontent.com/82009410/115813996-71ca7580-a41e-11eb-877a-fafb5521960a.PNG)
-![about me css](https://user-images.githubusercontent.com/82009410/115814037-86a70900-a41e-11eb-9390-001b8231dcb6.PNG)
+![ABOUT saya](https://user-images.githubusercontent.com/82009410/115837360-b23bea80-a442-11eb-9db6-5e1913e1cbae.PNG)
 Tambahkan layout untuk menu Contact
-=> yang berisi form isian: nama, email, message, dll
-
+=> yang berisi form isian: nama, email, message, dll.
+![Contact Person](https://user-images.githubusercontent.com/82009410/115837267-97697600-a442-11eb-922e-54f582778e70.PNG)
