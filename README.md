@@ -33,6 +33,7 @@ Pertanyaan dan Tugas!!!
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll.
 ![ABOUT saya](https://user-images.githubusercontent.com/82009410/115837360-b23bea80-a442-11eb-9db6-5e1913e1cbae.PNG)
-Tambahkan layout untuk menu Contact
+
+2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll.
 ![Contact Person](https://user-images.githubusercontent.com/82009410/115837267-97697600-a442-11eb-922e-54f582778e70.PNG)
